@@ -1,5 +1,6 @@
 # fallenlassen
 My bachelor thesis fallenlassen is an audiovisual installation for deceleration.
+start with sketch_fallenlassen.pde
 
 ABSTRACT
 fallen lassen - eine audiovisuelle Installation - 
@@ -12,3 +13,4 @@ Je unruhiger er wird, desto übersichtlicher wird die Installation wieder und er
 Jeder findet also seinen eigenen persönlich Weg zu Ruhe und Achtsamkeit - zu Entschleunigung. 
 
 
+please contact me for more information eidenhammer.s@gmx.de
